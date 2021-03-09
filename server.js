@@ -26,6 +26,6 @@ server
         return res.render("produto")
     })
 
-server.listen(5000, function() {
-    console.log("Server running at port 5000")
-})
+// server.listen(5000, function() {
+//     console.log("Server running at port 5000")
+// })
