@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e1045fb-75ce-4e97-b4ed-6360f2d759db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pDd5pXjgTtMZe3W74h2xBHG1Wc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vgaStore" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\elonl\Documents\unifor\vga-store\src\pages" />
+      <recent name="C:\Users\elonl\Documents\unifor\vga-store\" />
+      <recent name="C:\Users\elonl\Documents\unifor\vga-store\src" />
+      <recent name="C:\Users\elonl\Documents\unifor\VGA Store\src" />
+      <recent name="C:\Users\elonl\Documents\unifor\VGA Store\public\style" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1045fb-75ce-4e97-b4ed-6360f2d759db" name="Default Changelist" comment="" />
+      <created>1614721414156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614721414156</updated>
+      <workItem from="1614721415425" duration="2187000" />
+      <workItem from="1614724458594" duration="4797000" />
+      <workItem from="1614732134348" duration="9187000" />
+      <workItem from="1614889685266" duration="979000" />
+      <workItem from="1614890675698" duration="161000" />
+      <workItem from="1614890841185" duration="255000" />
+      <workItem from="1614891628564" duration="1107000" />
+      <workItem from="1615248263130" duration="4943000" />
+      <workItem from="1615264888577" duration="6426000" />
+      <workItem from="1615271575174" duration="572000" />
+    </task>
+    <task id="LOCAL-00001" summary="iframe">
+      <created>1614736045196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614736045196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1614889790291</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614889790291</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aa">
+      <created>1614892942650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614892942650</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aaaaa">
+      <created>1614893073944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614893073944</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1615263828165</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615263828165</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1615263902816</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615263902816</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <created>1615265638010</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615265638010</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update">
+      <created>1615265818904</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1615265818904</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update">
+      <created>1615265906368</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1615265906368</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1615270775793</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1615270775793</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="iframe" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="aa" />
+    <MESSAGE value="aaaaa" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
